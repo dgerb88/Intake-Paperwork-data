@@ -3,6 +3,8 @@
         "id": 0,
         "name": "LEFS",
         "language": "English",
+        "description": ["We are interested in knowing whether you are having any difficulty at all with the activities listed below because of your lower limb problem for which you are currently seeking attention. Please provide an answer for each activity.", 
+                        "Today, do you or would you have any difficulty at all with:"]
         "questions": ["Any of your usual work, housework, or school activities",
                       "Your usual hobbies, recreational or sporting activities",
                       "Getting into or out of the bath",
