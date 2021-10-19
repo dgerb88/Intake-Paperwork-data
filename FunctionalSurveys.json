@@ -420,7 +420,8 @@
 		"id": 2,
 		"name": "Back Index",
 		"language": "English",
-		"description": ["This questionnaire will give your provider information about how your back condition affects your everyday life. Please answer every section by marking the one statement that applies to you. If two or more statements in one section apply, please mark the one statement that most closely describes your problem."],
+		"description": ["This questionnaire will give your provider information about how your back condition affects your everyday life. Please answer every section by marking the one statement that applies to you. If two or more statements in one section apply, please mark the one statement that most closely describes your problem.",
+			       ""],
 		"questions": [{
 				"id": 0,
 				"title": "Pain Intensity",
