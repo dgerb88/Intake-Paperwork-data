@@ -6,7 +6,7 @@
 			"Today, do you or would you have any difficulty at all with:"
 		],
 		"questions": [{
-				"id": 0
+				"id": 0,
 				"title": "Any of your usual work, housework, or school activities.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -136,7 +136,7 @@
 				]
 			},
 			{
-				"id": 13
+				"id": 13,
 				"title": "Standing for 1 hour.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -146,7 +146,7 @@
 				]
 			},
 			{
-				"id" 14,
+				"id": 14,
 				"title": "Sitting for 1 hour.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
