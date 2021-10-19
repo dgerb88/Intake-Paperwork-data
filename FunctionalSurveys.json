@@ -2,9 +2,7 @@
 		"id": 0,
 		"name": "LEFS",
 		"language": "English",
-		"description": ["We are interested in knowing whether you are having any difficulty at all with the activities listed below because of your lower limb problem for which you are currently seeking attention. Please provide an answer for each activity.",
-			"Today, do you or would you have any difficulty at all with:"
-		],
+		"description": "We are interested in knowing whether you are having any difficulty at all with the activities listed below because of your lower limb problem for which you are currently seeking attention. Please provide an answer for each activity.  Today, do you or would you have any difficulty at all with:",
 		"questions": [{
 				"id": 0,
 				"title": "Any of your usual work, housework, or school activities.",
@@ -211,9 +209,7 @@
 		"id": 1,
 		"name": "LEFS",
 		"language": "Spanish",
-		"description": ["Estamos interesados en saber si esta teniendo alguna dificultad al realizar las actividades enumeradas a continuación debido al problema en su pierna. Por favor de una respuesta porcada una de las actividades.",
-			"En el dia de hoy, tiene o tendría alguna dificultad realizando alguna de las siguientes actividades:"
-		],
+		"description": "Estamos interesados en saber si esta teniendo alguna dificultad al realizar las actividades enumeradas a continuación debido al problema en su pierna. Por favor de una respuesta porcada una de las actividades.  En el dia de hoy, tiene o tendría alguna dificultad realizando alguna de las siguientes actividades:",
 		"questions": [{
 				"id": 0,
 				"title": "Alguna parte de su trabajo habitual, quehaceres domésticos, o actividades escolares.",
@@ -420,8 +416,7 @@
 		"id": 2,
 		"name": "Back Index",
 		"language": "English",
-		"description": ["This questionnaire will give your provider information about how your back condition affects your everyday life. Please answer every section by marking the one statement that applies to you. If two or more statements in one section apply, please mark the one statement that most closely describes your problem.",
-			       ""],
+		"description": "This questionnaire will give your provider information about how your back condition affects your everyday life. Please answer every section by marking the one statement that applies to you. If two or more statements in one section apply, please mark the one statement that most closely describes your problem.",
 		"questions": [{
 				"id": 0,
 				"title": "Pain Intensity",
