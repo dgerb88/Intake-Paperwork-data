@@ -6,6 +6,7 @@
 			"Today, do you or would you have any difficulty at all with:"
 		],
 		"questions": [{
+				"id": 0
 				"title": "Any of your usual work, housework, or school activities.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -15,6 +16,7 @@
 				]
 			},
 			{
+				"id": 1,
 				"title": "Your usual hobbies, recreational or sporting activities.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -24,6 +26,7 @@
 				]
 			},
 			{
+				"id": 2,
 				"title": "Getting into or out of the bath.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -33,6 +36,7 @@
 				]
 			},
 			{
+				"id": 3,
 				"title": "Walking between rooms.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -42,6 +46,7 @@
 				]
 			},
 			{
+				"id": 4,
 				"title": "Putting on your shoes or socks.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -51,6 +56,7 @@
 				]
 			},
 			{
+				"id": 5,
 				"title": "Squatting",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -60,6 +66,7 @@
 				]
 			},
 			{
+				"id": 6,
 				"title": "Lifting an object, like a bag of groceries, from the floor.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -69,6 +76,7 @@
 				]
 			},
 			{
+				"id": 7,
 				"title": "Performing light activities around your home.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -78,6 +86,7 @@
 				]
 			},
 			{
+				"id": 8,
 				"title": "Performing heavy activities around your home.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -87,6 +96,7 @@
 				]
 			},
 			{
+				"id": 9,
 				"title": "Getting into or out of your car.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -96,6 +106,7 @@
 				]
 			},
 			{
+				"id": 10,
 				"title": "Walking 2 blocks.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -105,6 +116,7 @@
 				]
 			},
 			{
+				"id": 11,
 				"title": "Walking a mile",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -114,6 +126,7 @@
 				]
 			},
 			{
+				"id": 12,
 				"title": "Going up or down 10 stairs (about 1 flight of stairs).",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -123,6 +136,7 @@
 				]
 			},
 			{
+				"id": 13
 				"title": "Standing for 1 hour.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -132,6 +146,7 @@
 				]
 			},
 			{
+				"id" 14,
 				"title": "Sitting for 1 hour.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -141,6 +156,7 @@
 				]
 			},
 			{
+				"id": 15,
 				"title": "Running on even ground.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -150,6 +166,7 @@
 				]
 			},
 			{
+				"id": 16,
 				"title": "Running on uneven ground.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -159,6 +176,7 @@
 				]
 			},
 			{
+				"id": 17,
 				"title": "Making sharp turns while running fast.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -168,6 +186,7 @@
 				]
 			},
 			{
+				"id": 18,
 				"title": "Hopping",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -177,6 +196,7 @@
 				]
 			},
 			{
+				"id": 19,
 				"title": "Rolling over in bed.",
 				"rating": ["0 - Extreme difficulty or unable to perform",
 					"1 - Quite a bit of difficulty",
@@ -195,6 +215,7 @@
 			"En el dia de hoy, tiene o tendría alguna dificultad realizando alguna de las siguientes actividades:"
 		],
 		"questions": [{
+				"id": 0,
 				"title": "Alguna parte de su trabajo habitual, quehaceres domésticos, o actividades escolares.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -204,6 +225,7 @@
 				]
 			},
 			{
+				"id": 1,
 				"title": "Sus pasatiempos usuales, actividades recreativas o deportivas.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -213,6 +235,7 @@
 				]
 			},
 			{
+				"id": 2,
 				"title": "Entrando o saliendo de la tina.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -222,6 +245,7 @@
 				]
 			},
 			{
+				"id": 3,
 				"title": "Caminando de una habitación a otra.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -231,6 +255,7 @@
 				]
 			},
 			{
+				"id": 4,
 				"title": "Poniéndose los zapatos o medias.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -240,6 +265,7 @@
 				]
 			},
 			{
+				"id": 5,
 				"title": "Poniéndose en cuclillas.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -249,6 +275,7 @@
 				]
 			},
 			{
+				"id": 6,
 				"title": "Levantando un objeto, por ejemplo, una bolsa de compras de supermercado del piso.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -258,6 +285,7 @@
 				]
 			},
 			{
+				"id": 7,
 				"title": "Realizando actividades ligeras en su casa.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -267,6 +295,7 @@
 				]
 			},
 			{
+				"id": 8,
 				"title": "Realizando actividades pesadas en su casa.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -276,6 +305,7 @@
 				]
 			},
 			{
+				"id": 9,
 				"title": "Subiéndose o bajándose de un carro.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -285,6 +315,7 @@
 				]
 			},
 			{
+				"id": 10,
 				"title": "Caminando dos cuadras.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -294,6 +325,7 @@
 				]
 			},
 			{
+				"id": 11,
 				"title": "Caminando una milla.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -303,6 +335,7 @@
 				]
 			},
 			{
+				"id": 12,
 				"title": "Subiendo o bajando 10 peldaños de una escalera.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -312,6 +345,7 @@
 				]
 			},
 			{
+				"id": 13,
 				"title": "Estando parado por una hora.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -321,6 +355,7 @@
 				]
 			},
 			{
+				"id": 14,
 				"title": "Estando sentado por una hora.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -330,6 +365,7 @@
 				]
 			},
 			{
+				"id": 15,
 				"title": "Corriendo sobre terreno plano.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -339,6 +375,7 @@
 				]
 			},
 			{
+				"id": 16,
 				"title": "Corriendo sobre terreno irregular.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -348,6 +385,7 @@
 				]
 			},
 			{
+				"id": 17,
 				"title": "Haciendo vueltas agudas mientras corre rápidamente.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -357,6 +395,7 @@
 				]
 			},
 			{
+				"id": 18,
 				"title": "Soltando",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -366,6 +405,7 @@
 				]
 			},
 			{
+				"id": 19,
 				"title": "Volteandose en la cama.",
 				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
 					"1 - Mucha dificultad",
@@ -382,6 +422,7 @@
 		"language": "English",
 		"description": ["This questionnaire will give your provider information about how your back condition affects your everyday life. Please answer every section by marking the one statement that applies to you. If two or more statements in one section apply, please mark the one statement that most closely describes your problem."],
 		"questions": [{
+				"id": 0,
 				"title": "Pain Intensity",
 				"rating": ["0 - The pain comes and goes and is very mild.",
 					"1 - The pain is mild and does not vary much.",
@@ -392,6 +433,7 @@
 				]
 			},
 			{
+				"id": 1,
 				"title": "Sleeping",
 				"rating": ["0 - I get no pain in bed.",
 					"1 - I get pain in bed but it does not prevent me from sleeping well.",
@@ -402,6 +444,7 @@
 				]
 			},
 			{
+				"id": 2,
 				"title": "Sitting",
 				"rating": ["0 - I can sit in any chair as long as I like.",
 					"1 - I can only sit in my favorite chair as long as I like.",
@@ -412,6 +455,7 @@
 				]
 			},
 			{
+				"id": 3,
 				"title": "Standing",
 				"rating": ["0 - I can stand as long as I want without pain.",
 					"1 - I have some pain while standing but it does not increase with time.",
@@ -422,6 +466,7 @@
 				]
 			},
 			{
+				"id": 4,
 				"title": "Walking",
 				"rating": ["0 - I have no pain while walking.",
 					"1 - I have some pain while walking but it doesn’t increase with distance.",
@@ -432,6 +477,7 @@
 				]
 			},
 			{
+				"id": 5,
 				"title": "Personal Care",
 				"rating": ["0 - I do not have to change my way of washing or dressing in order to avoid pain.",
 					"1 - I do not normally change my way of washing or dressing even though it causes some pain.",
@@ -442,6 +488,7 @@
 				]
 			},
 			{
+				"id": 6,
 				"title": "Lifting",
 				"rating": ["0 - I can lift heavy weights without extra pain.",
 					"1 - I can lift heavy weights but it causes extra pain.",
@@ -452,6 +499,7 @@
 				]
 			},
 			{
+				"id": 7,
 				"title": "Traveling",
 				"rating": ["0 - I get no pain while traveling.",
 					"1 - I get some pain while traveling but none of my usual forms of travel make it worse.",
@@ -462,6 +510,7 @@
 				]
 			},
 			{
+				"id": 8,
 				"title": "Social Life",
 				"rating": ["0 - My social life is normal and gives me no extra pain.",
 					"1 - My social life is normal but increases the degree of pain.",
@@ -472,6 +521,7 @@
 				]
 			},
 			{
+				"id": 9,
 				"title": "Changing degree of pain",
 				"rating": ["0 - My pain is rapidly getting better.",
 					"1 - My pain fluctuates but overall is definitely getting better.",
