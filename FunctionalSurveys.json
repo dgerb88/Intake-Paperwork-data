@@ -1,66 +1,486 @@
-[
-    {
-        "id": 0,
-        "name": "LEFS",
-        "language": "English",
-        "description": ["We are interested in knowing whether you are having any difficulty at all with the activities listed below because of your lower limb problem for which you are currently seeking attention. Please provide an answer for each activity.", 
-                        "Today, do you or would you have any difficulty at all with:"],
-        "questions": ["Any of your usual work, housework, or school activities.",
-                      "Your usual hobbies, recreational or sporting activities.",
-                      "Getting into or out of the bath.",
-                      "Walking between rooms.",
-                      "Putting on your shoes or socks.",
-                      "Squatting.",
-                      "Lifting an object, like a bag of groceries, from the floor.", 
-                      "Performing light activities around your home.", 
-                      "Performing heavy activities around your home.",
-                      "Getting into or out of your car.",
-                      "Walking 2 blocks.",
-                      "Walking a mile.",
-                      "Going up or down 10 stairs (about 1 flight of stairs).",
-                      "Standing for 1 hour.",
-                      "Sitting for 1 hour.",
-                      "Running on even ground.",
-                      "Running on uneven ground.",
-                      "Making sharp turns while running fast.",
-                      "Hopping.",
-                      "Rolling over in bed."],
-        "rating": ["0 - Extreme difficulty or unable to perform",
-                   "1 - Quite a bit of difficulty",
-                   "2 - Moderate difficulty",
-                   "3 - A little bit of difficulty",
-                   "4 - No difficulty"]
-    },
-    {
-        "id": 1,
-        "name": "LEFS",
-        "language": "Spanish",
-        "description": ["Estamos interesados en saber si esta teniendo alguna dificultad al realizar las actividades enumeradas a continuación debido al problema en su pierna. Por favor de una respuesta porcada una de las actividades.",
-                        "En el dia de hoy, tiene o tendría alguna dificultad realizando alguna de las siguientes actividades:"],
-        "questions": ["Alguna parte de su trabajo habitual, quehaceres domésticos, o actividades escolares.",
-                      "Sus pasatiempos usuales, actividades recreativas o deportivas.",
-                      "Entrando o saliendo de la tina.",
-                      "Caminando de una habitación a otra.",
-                      "Poniéndose los zapatos o medias.",
-                      "Poniéndose en cuclillas.",
-                      "Levantando un objeto, por ejemplo, una bolsa de compras de supermercado del piso.",
-                      "Realizando actividades ligeras en su casa.",
-                      "Realizando actividades pesadas en su casa.",
-                      "Subiéndose o bajándose de un carro.",
-                      "Caminando dos cuadras.",
-                      "Caminando una milla.",
-                      "Subiendo o bajando 10 peldaños de una escalera.",
-                      "Estando parado por una hora.",
-                      "Estando sentado por una hora.",
-                      "Corriendo sobre terreno plano.",
-                      "Corriendo sobre terreno irregular.",
-                      "Haciendo vueltas agudas mientras corre rápidamente.",
-                      "Saltando.",
-                      "Volteandose en la cama."],
-        "rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
-                   "1 - Mucha dificultad",
-                   "2 - Dificultad moderada",
-                   "3 - Un poco de dificultad",
-                   "4 - Ninguna dificultad"]
-    }
+[{
+		"id": 0,
+		"name": "LEFS",
+		"language": "English",
+		"description": ["We are interested in knowing whether you are having any difficulty at all with the activities listed below because of your lower limb problem for which you are currently seeking attention. Please provide an answer for each activity.",
+			"Today, do you or would you have any difficulty at all with:"
+		],
+		"questions": [{
+				"title": "Any of your usual work, housework, or school activities.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Your usual hobbies, recreational or sporting activities.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Getting into or out of the bath.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Walking between rooms.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Putting on your shoes or socks.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Squatting",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Lifting an object, like a bag of groceries, from the floor.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Performing light activities around your home.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Performing heavy activities around your home.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Getting into or out of your car.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Walking 2 blocks.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Walking a mile",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Going up or down 10 stairs (about 1 flight of stairs).",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Standing for 1 hour.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Sitting for 1 hour.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Running on even ground.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Running on uneven ground.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Making sharp turns while running fast.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Hopping",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			},
+			{
+				"title": "Rolling over in bed.",
+				"rating": ["0 - Extreme difficulty or unable to perform",
+					"1 - Quite a bit of difficulty",
+					"2 - Moderate difficulty",
+					"3 - A little bit of difficulty",
+					"4 - No difficulty"
+				]
+			}
+		]
+	},
+	{
+		"id": 1,
+		"name": "LEFS",
+		"language": "Spanish",
+		"description": ["Estamos interesados en saber si esta teniendo alguna dificultad al realizar las actividades enumeradas a continuación debido al problema en su pierna. Por favor de una respuesta porcada una de las actividades.",
+			"En el dia de hoy, tiene o tendría alguna dificultad realizando alguna de las siguientes actividades:"
+		],
+		"questions": [{
+				"title": "Alguna parte de su trabajo habitual, quehaceres domésticos, o actividades escolares.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Sus pasatiempos usuales, actividades recreativas o deportivas.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Entrando o saliendo de la tina.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Caminando de una habitación a otra.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Poniéndose los zapatos o medias.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Poniéndose en cuclillas.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Levantando un objeto, por ejemplo, una bolsa de compras de supermercado del piso.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Realizando actividades ligeras en su casa.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Realizando actividades pesadas en su casa.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Subiéndose o bajándose de un carro.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Caminando dos cuadras.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Caminando una milla.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Subiendo o bajando 10 peldaños de una escalera.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Estando parado por una hora.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Estando sentado por una hora.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Corriendo sobre terreno plano.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Corriendo sobre terreno irregular.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Haciendo vueltas agudas mientras corre rápidamente.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Soltando",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			},
+			{
+				"title": "Volteandose en la cama.",
+				"rating": ["0 - Dificultad extrema o incapaz de realizar la actividad",
+					"1 - Mucha dificultad",
+					"2 - Dificultad moderada",
+					"3 - Un poco de dificultad",
+					"4 - Ninguna dificultad"
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "Back Index",
+		"language": "English",
+		"description": ["This questionnaire will give your provider information about how your back condition affects your everyday life. Please answer every section by marking the one statement that applies to you. If two or more statements in one section apply, please mark the one statement that most closely describes your problem."],
+		"questions": [{
+				"title": "Pain Intensity",
+				"rating": ["0 - The pain comes and goes and is very mild.",
+					"1 - The pain is mild and does not vary much.",
+					"2 - The pain comes and goes and is moderate.",
+					"3 - The pain is moderate and does not vary much.",
+					"4 - The pain comes and goes and is very severe.",
+					"5 - The pain is very severe and does not vary much."
+				]
+			},
+			{
+				"title": "Sleeping",
+				"rating": ["0 - I get no pain in bed.",
+					"1 - I get pain in bed but it does not prevent me from sleeping well.",
+					"2 - Because of pain my normal sleep is reduced by less than 25%.",
+					"3 - Because of pain my normal sleep is reduced by less than 50%.",
+					"4 - Because of pain my normal sleep is reduced by less than 75%.",
+					"5 - Pain prevents me from sleeping at all."
+				]
+			},
+			{
+				"title": "Sitting",
+				"rating": ["0 - I can sit in any chair as long as I like.",
+					"1 - I can only sit in my favorite chair as long as I like.",
+					"2 - Pain prevents me from sitting more than 1 hour.",
+					"3 - Pain prevents me from sitting more than 1/2 hour.",
+					"4 - Pain prevents me from sitting more than 10 minutes.",
+					"5 - I avoid sitting because it increases pain immediately."
+				]
+			},
+			{
+				"title": "Standing",
+				"rating": ["0 - I can stand as long as I want without pain.",
+					"1 - I have some pain while standing but it does not increase with time.",
+					"2 - I cannot stand for longer than 1 hour without increasing pain.",
+					"3 - I cannot stand for longer than 1/2 hour without increasing pain.",
+					"4 - I cannot stand for longer than 10 minutes without increasing pain.",
+					"5 - I avoid standing because it increases pain immediately."
+				]
+			},
+			{
+				"title": "Walking",
+				"rating": ["0 - I have no pain while walking.",
+					"1 - I have some pain while walking but it doesn’t increase with distance.",
+					"2 - I cannot walk more than 1 mile without increasing pain.",
+					"3 - I cannot walk more than 1/2 mile without increasing pain.",
+					"4 - I cannot walk more than 1/4 mile without increasing pain.",
+					"5 - I cannot walk at all without increasing pain."
+				]
+			},
+			{
+				"title": "Personal Care",
+				"rating": ["0 - I do not have to change my way of washing or dressing in order to avoid pain.",
+					"1 - I do not normally change my way of washing or dressing even though it causes some pain.",
+					"2 - Washing and dressing increases the pain but I manage not to change my way of doing it.",
+					"3 - Washing and dressing increases the pain and I find it necessary to change my way of doing it.",
+					"4 - Because of the pain I am unable to do some washing and dressing without help.",
+					"5 - Because of the pain I am unable to do any washing and dressing without help."
+				]
+			},
+			{
+				"title": "Lifting",
+				"rating": ["0 - I can lift heavy weights without extra pain.",
+					"1 - I can lift heavy weights but it causes extra pain.",
+					"2 - Pain prevents me from lifting heavy weights off the floor.",
+					"3 - Pain prevents me from lifting heavy weights off the floor, but I can manage if they are conveniently positioned (e.g., on a table).",
+					"4 - Pain prevents me from lifting heavy weights off the floor, but I can manage light to medium weights if they are conveniently positioned.",
+					"5 - I can only lift very light weights."
+				]
+			},
+			{
+				"title": "Traveling",
+				"rating": ["0 - I get no pain while traveling.",
+					"1 - I get some pain while traveling but none of my usual forms of travel make it worse.",
+					"2 - I get extra pain while traveling but it does not cause me to seek alternate forms of travel.",
+					"3 - I get extra pain while traveling which causes me to seek alternate forms of travel.",
+					"4 - Pain restricts all forms of travel except that done while lying down.",
+					"5 - Pain restricts all forms of travel."
+				]
+			},
+			{
+				"title": "Social Life",
+				"rating": ["0 - My social life is normal and gives me no extra pain.",
+					"1 - My social life is normal but increases the degree of pain.",
+					"2 - Pain has no significant affect on my social life apart from limiting my more energetic interests (e.g., dancing, etc).",
+					"3 - Pain has restricted my social life and I do not go out very often.",
+					"4 - Pain has restricted my social life to my home.",
+					"5 - I have hardly any social life because of the pain."
+				]
+			},
+			{
+				"title": "Changing degree of pain",
+				"rating": ["0 - My pain is rapidly getting better.",
+					"1 - My pain fluctuates but overall is definitely getting better.",
+					"2 - My pain seems to be getting better but improvement is slow.",
+					"3 - My pain is neither getting better or worse.",
+					"4 - My pain is gradually worsening.",
+					"5 - My pain is rapidly worsening."
+				]
+			}
+		]
+	}
 ]
