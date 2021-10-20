@@ -528,5 +528,122 @@
 				]
 			}
 		]
+	},
+ 	{
+		"id": 3,
+		"name": "Indice de la Espalda",
+		"language": "Spanish",
+		"description": "Este questionario le dará información a su proveedor de salud sobre como la condición de su espalda afecta su vida diaria. Por favor conteste cada sección marcándo la frase que aplica a su condición. Si dos o más frases in una sección describen su condición, por favor marque la frase que describe su condición con más exactitud.",
+		"questions": [{
+				"id": 0,
+				"title": "Intensidad del Dolor",
+				"rating": ["0 - El dolor va y viene y es muy suave.",
+					"1 - El dolor es suave y no varía mucho.",
+					"2 - El dolor va y viene y es moderado.",
+					"3 - El dolor es moderado y no varía mucho.",
+					"4 - El dolor va y viene y es muy severo.",
+					"5 - El dolor es muy severo y no varía mucho."
+				]
+			},
+			{
+				"id": 1,
+				"title": "Al Dormir",
+				"rating": ["0 - No tengo dolor cuando estoy acostado",
+					"1 - Tengo dolor cuando estoy acostado pero no evita que duerma bien.",
+					"2 - Debido al dolor, mi sueño normal se ha reducido menos del 25%.",
+					"3 - Debido al dolor, mi sueño normal se ha reducido menos del 50%.",
+					"4 - Debido al dolor, mi sueño normal se ha reducido menos del 75%.",
+					"5 - El dolor no me deja dormir."
+				]
+			},
+			{
+				"id": 2,
+				"title": "Al Sentarse",
+				"rating": ["0 - Puedo sentarme en cualquier silla por tanto tiempo como quiera.",
+					"1 - Puedo sentarme solamente en mi silla favorita por tanto tiempo como quiera.",
+					"2 - El dolor no me permite sentarme por más de una hora.",
+					"3 - El dolor no me permite sentarme por más de media hora.",
+					"4 - El dolor no me permite sentarme por más de 10 minutos.",
+					"5 - Evito sentarme porque ésto aumenta el dolor inmediatamente."
+				]
+			},
+			{
+				"id": 3,
+				"title": "Al Estar De Pie",
+				"rating": ["0 - Puedo estar parado por tanto tiempo como quiera sin dolor.",
+					"1 - Tengo algún dolor mientras que estoy parado pero el dolor no aumenta con el tiempo.",
+					"2 - No puedo estar parado por más de una hora sin que el dolor aumente.",
+					"3 - No puedo estar parado por más de media hora sin que el dolor aumente.",
+					"4 - No puedo estar parado por más de 10 minutos sin que el dolor aumente.",
+					"5 - Evito estar parado porque ésto incrementa el dolor inmediatamente."
+				]
+			},
+			{
+				"id": 4,
+				"title": "Al Caminar",
+				"rating": ["0 - No tengo dolor mientras que camino.",
+					"1 - Tengo algún dolor mientras que camino pero el dolor no aumenta con la distancia.",
+					"2 - No puedo caminar más de una milla sin que el dolor aumente.",
+					"3 - No puedo caminar más de media milla sin que el dolor aumente.",
+					"4 - No puedo caminar más de un cuarto de milla sin que el dolor aumente.",
+					"5 - No puedo caminar sin que el dolor aumente."
+				]
+			},
+			{
+				"id": 5,
+				"title": "Cuidado Personal",
+				"rating": ["0 - No tengo que cambiar mi manera de bañarme o vestirme para evitar el dolor.",
+					"1 - No he cambiado mi manera de bañarme o vestirme aunque ésto causa algo de dolor .",
+					"2 - El bañarse o vestirse incrementa el dolor pero no he cambiado mi manera de hacerlo.",
+					"3 - El bañarse o vestirse incrementa el dolor pero me ha sido necesario cambiar mi manera de hacerlo.",
+					"4 - Debido al dolor, no puedo hacer alguna parte de mi baño o vestido sin ayuda.",
+					"5 - Debido al dolor, no puedo bañarme o vestirme sin ayuda."
+				]
+			},
+			{
+				"id": 6,
+				"title": "Al Levantar Objetos",
+				"rating": ["0 - Puedo levantar objetos pesados sin que cause más dolor.",
+					"1 - Puedo levantar objetos pesados pero ésto causa más dolor.",
+					"2 - El dolor no me permite levantar objetos pesados del piso.",
+					"3 - El dolor no me permite levantar objetos pesados del piso, pero puedo levantarlos si son convenientemente colocados (por ejemplo, en una mesa).",
+					"4 - El dolor no me permite levantar objetos pesados del piso, pero puedo levantar objetos livianos o medianamente pesados si son colocados convenientemente.",
+					"5 - Puedo levantar solamente objetos muy ligeros."
+				]
+			},
+			{
+				"id": 7,
+				"title": "Al Viajar",
+				"rating": ["0 - No tengo dolor al viajar.",
+					"1 - Tengo algo de dolor al viajar pero ninguna de mis maneras habituales de viajar empeoran el dolor.",
+					"2 - Tengo más dolor al viajar pero ésto no me obliga a buscar otras formas de viajar.",
+					"3 - Tengo más dolor al viajar lo que me obliga a buscar otras formas de viajar.",
+					"4 - El dolor ha restringido todas las formas de viaje excepto cuando voy acostado.",
+					"5 - El dolor ha restringido todas las formas de viaje."
+				]
+			},
+			{
+				"id": 8,
+				"title": "Vida Social",
+				"rating": ["0 - Mi vida social es normal y no me causa más dolor.",
+					"1 - Mi vida social es normal pero aumenta el dolor.",
+					"2 - 2. El dolor no ha tenido un efecto significante en mi vida social aparte de limitar mis intereses más enérgicos (por ejemplo, bailar, etc).",
+					"3 - El dolor ha restringido mi vida social y no salgo muy frecuentemente",
+					"4 - El dolor has restringido mi vida social a mi casa.",
+					"5 - Difícilmente tengo alguna vida social debido al dolor."
+				]
+			},
+			{
+				"id": 9,
+				"title": "Cambio en el Grado de Dolor",
+				"rating": ["0 - Mi dolor esta mejorando rápidamente.",
+					"1 - Mi dolor fluctúa pero está mejorando definitivamente.",
+					"2 - Mi dolor parece estar mejorando pero la mejoría es lenta.",
+					"3 - Mi dolor no está ni mejorando ni empeorando.",
+					"4 - Mi dolor está empeorando gradualmente.",
+					"5 - Mi dolor está empeorando rápidamente."
+				]
+			}
+		]
 	}
 ]
