@@ -645,5 +645,110 @@
 				]
 			}
 		]
+	},
+ 	{
+		"id": 4,
+		"name": "QuickDash",
+		"language": "English",
+		"description": "Please rate your ability to do the following activities in the last week by picking the number below the appropriate response.",
+		"questions": [{
+				"id": 0,
+				"title": "Open a tight or new jar.",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 1,
+				"title": "Do heavy household chores (i.e., wash walls, floors).",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 2,
+				"title": "Carry a shopping bag or briefcase.",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 3,
+				"title": "Wash your back.",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 4,
+				"title": "Use a knife to cut food.",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 5,
+				"title": "Recreational activities in which you take some force or impact through your arm, shoulder or hand (i.e., golf, hammering, tennis etc.).",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 6,
+				"title": "During the past week, to what extent has your arm, shoulder or hand problem interfered with your normal social activities with family, friends, neighbors or groups?",
+				"rating": ["1 - Not at all",
+					   "2 - Slightly",
+					   "3 - Moderately",
+					   "4 - Quite a bit",
+					   "5 - Extremely"]
+			      },
+			      {
+			      	"id": 7,
+				"title": "During the past week, were you limited in your work or other regular daily activities as a result of your arm, shoulder or hand problem?",
+				"rating": ["1 - Not limited at all",
+					   "2 - Slightly limited",
+					   "3 - Moderately limited",
+					   "4 - Very limited",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 8,
+				"title": "Arm, shoulder or hand pain.",
+				"rating": ["1 - None",
+					   "2 - Mild",
+					   "3 - Moderate",
+					   "4 - Severe",
+					   "5 - Extreme"]
+			      },
+			      {
+			      	"id": 9,
+				"title": "Tingling (pins and needles) in your arm, shoulder or hand.",
+				"rating": ["1 - None",
+					   "2 - Mild",
+					   "3 - Moderate",
+					   "4 - Severe",
+					   "5 - Extreme"]
+			      },
+			      {
+			      	"id": 10,
+				"title": "Tingling (pins and needles) in your arm, shoulder or hand.",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - So much it prevents sleep"]
+			      }]
 	}
 ]
