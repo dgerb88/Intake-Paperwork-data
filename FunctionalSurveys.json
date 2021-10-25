@@ -654,11 +654,11 @@
 		"questions": [{
 				"id": 0,
 				"title": "Open a tight or new jar.",
-				"rating": ["1 - No difficulty",
-					   "2 - Mild difficulty",
-					   "3 - Moderate difficulty",
-					   "4 - Severe difficulty",
-					   "5 - Unable to do"]
+				"rating": ["No difficulty",
+					   "Mild difficulty",
+					   "Moderate difficulty",
+					   "Severe difficulty",
+					   "Unable to do"]
 			      },
 			      {
 			      	"id": 1,
