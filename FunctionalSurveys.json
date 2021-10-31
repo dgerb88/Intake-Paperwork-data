@@ -750,5 +750,110 @@
 					   "4 - Severe difficulty",
 					   "5 - So much it prevents sleep"]
 			      }]
+	},
+ 	{
+		"id": 5,
+		"name": "QuickDash",
+		"language": "Spanish",
+		"description": "Por favor evalúe su capacidad de ejecutar las siguientes actividades durante la última semana. Indíquelo con elegir el número que le corresponda a su respuesta.",
+		"questions": [{
+				"id": 0,
+				"title": "Abrir un pomo nuevo o apretado",
+				"rating": ["No difficulty",
+					   "Mild difficulty",
+					   "Moderate difficulty",
+					   "Severe difficulty",
+					   "Unable to do"]
+			      },
+			      {
+			      	"id": 1,
+				"title": "Hacer quehaceres domésticos pesados (p. ej. lavar paredes, ventanas o el piso)",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 2,
+				"title": "Cargar una bolsa de mercado o un portafolio",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 3,
+				"title": "Lavarse la espalda",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 4,
+				"title": "Usar cuchillo para cortar la comida",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 5,
+				"title": "Participar en actividades recreativas en las cual usted tome alguna fuerza o impacto a través de su brazo, hombro o mano (p. ej. jugar al béisbol, boliche, o martillar)",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 6,
+				"title": "Durante la última semana, ¿hasta qué punto le ha dificultado su problema de brazo, mano u hombro como para limitar o prevenir su participación en actividades sociales normales con la familia o conocidos?",
+				"rating": ["1 - Not at all",
+					   "2 - Slightly",
+					   "3 - Moderately",
+					   "4 - Quite a bit",
+					   "5 - Extremely"]
+			      },
+			      {
+			      	"id": 7,
+				"title": "Durante la semana pasada, ¿estuvo limitado/a en su trabajo u otras actividades diarias por causa del problema con su brazo, hombro o mano?",
+				"rating": ["1 - Not limited at all",
+					   "2 - Slightly limited",
+					   "3 - Moderately limited",
+					   "4 - Very limited",
+					   "5 - Unable to do"]
+			      },
+			      {
+			      	"id": 8,
+				"title": "Dolor de brazo, hombro o mano",
+				"rating": ["1 - None",
+					   "2 - Mild",
+					   "3 - Moderate",
+					   "4 - Severe",
+					   "5 - Extreme"]
+			      },
+			      {
+			      	"id": 9,
+				"title": "Hormigueo (pinchazos) en el brazo, hombro o mano",
+				"rating": ["1 - None",
+					   "2 - Mild",
+					   "3 - Moderate",
+					   "4 - Severe",
+					   "5 - Extreme"]
+			      },
+			      {
+			      	"id": 10,
+				"title": "Durante la última semana, ¿cuánta dificultad ha tenido para dormir a causa del dolor en el brazo, hombro o mano?",
+				"rating": ["1 - No difficulty",
+					   "2 - Mild difficulty",
+					   "3 - Moderate difficulty",
+					   "4 - Severe difficulty",
+					   "5 - So much it prevents sleep"]
+			      }]
 	}
 ]
