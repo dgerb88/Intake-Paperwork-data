@@ -864,12 +864,12 @@
 		"questions": [{
 				"id": 0,
 				"title": "PAIN INTESITY",
-				"rating": ["0 - I have no pain at the moment",
-					"1 - The pain is very mild at the moment",
-					"2 - The pain is moderate at the moment",
-					"3 - The pain is fairly severe at the moment",
-					"4 - The pain is very severe at the moment",
-					"5 - The pain is the worst imaginable at the moment"
+				"rating": ["I have no pain at the moment",
+					"The pain is very mild at the moment",
+					"The pain is moderate at the moment",
+					"The pain is fairly severe at the moment",
+					"The pain is very severe at the moment",
+					"The pain is the worst imaginable at the moment"
 				]
 			},
 			{
