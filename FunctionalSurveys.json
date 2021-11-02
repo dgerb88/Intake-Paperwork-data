@@ -863,13 +863,130 @@
 		"description": "Instructions: this questionnaire has been designed to give us information as to how your neck pain has affected your ability to manage everyday life. Please answer every section and mark in each section only the ONE box which applies to you at this time. We realize you may consider two of the statements in any section may relate to you, but please mark the box which most closely describes your problem TODAY.",
 		"questions": [{
 				"id": 0,
-				"title": "PAIN INTESITY",
+				"title": "Pain Intensity",
 				"rating": ["I have no pain at the moment",
 					"The pain is very mild at the moment",
 					"The pain is moderate at the moment",
 					"The pain is fairly severe at the moment",
 					"The pain is very severe at the moment",
 					"The pain is the worst imaginable at the moment"
+				]
+			},
+			{
+				"id": 1,
+				"title": "Personal Care",
+				"rating": ["I can look after myself normally without causing extra pain",
+					"I can look after myself normally but it causes extra pain",
+					"It is painful to look after myself and I am slow and careful",
+					"I need some help but manage most of my personal care",
+					"I need help every day in most of my personal care",
+					"I don’t get dressed, I wash with difficulty and stay in bed"
+				]
+			},
+			{
+				"id": 2,
+				"title": "Lifting",
+				"rating": ["I can lift heavy weights without causing extra pain",
+					"I can lift heavy weights, but it gives me extra pain",
+					"Pain prevents me from lifting heavy weights off the floor but I can manage if items are conveniently positioned, ie. on a table",
+					"Pain prevents me from lifting heavy weights, but I can manage light weights if they are conveniently positioned",
+					"I can lift only very light weights",
+					"I cannot lift or carry anything at all"
+				]
+			},
+			{
+				"id": 3,
+				"title": "Work",
+				"rating": ["I can do as much work as I want",
+					"I can only do my usual work, but no more",
+					"I can do most of my usual work, but no more",
+					"I can't do my usual work",
+					"I can hardly do any work at all",
+					"I can't do any work at all"
+				]
+			},
+			{
+				"id": 4,
+				"title": "Headaches",
+				"rating": ["I have no headaches at all",
+					"I have slight headaches that come infrequently",
+					"I have moderate headaches that come infrequently",
+					"I have moderate headaches that come frequently",
+					"I have severe headaches that come frequently",
+					"I have headaches almost all the time"
+				]
+			},
+			{
+				"id": 5,
+				"title": "Concentration",
+				"rating": ["I can concentrate fully without difficulty",
+					"I can concentrate fully with slight difficulty",
+					"I have a fair degree of difficulty concentrating",
+					"I have a lot of difficulty concentrating",
+					"I have a great deal of difficulty concentrating",
+					"I can't concentrate at all"
+				]
+			},
+			{
+				"id": 6,
+				"title": "Sleeping",
+				"rating": ["I have no trouble sleeping",
+					"My sleep is slightly disturbed for less than 1 hour",
+					"My sleep is mildly disturbed for up to 1-2 hours",
+					"My sleep is moderately disturbed for up to 2-3 hours",
+					"My sleep is greatly disturbed for up to 3-5 hours",
+					"My sleep is completely disturbed for up to 5-7 hours"
+				]
+			},
+			{
+				"id": 7,
+				"title": "Driving",
+				"rating": ["I can drive my car without neck pain",
+					"I can drive as long as I want with slight neck pain",
+					"I can drive as long as I want with moderate neck pain",
+					"I can't drive as long as I want because of moderate neck pain",
+					"I can hardly drive at all because of severe neck pain",
+					"I can't drive my care at all because of neck pain"
+				]
+			},
+			{
+				"id": 8,
+				"title": "Reading",
+				"rating": ["I can read as much as I want with no neck pain",
+					"I can read as much as I want with slight neck pain",
+					"I can read as much as I want with moderate neck pain",
+					"I can't read as much as I want because of moderate neck pain",
+					"I can't read as much as I want because of severe neck pain",
+					"I can't read at all"
+				]
+			},
+			{
+				"id": 9,
+				"title": "Recreation",
+				"rating": ["I have no neck pain during all recreational activities",
+					"I have some neck pain with all recreational activities",
+					"I have some neck pain with a few recreational activities",
+					"I have neck pain with most recreational activities",
+					"I can hardly do recreational activities due to neck pain",
+					"I can't do any recreational activities due to neck pain"
+				]
+			}
+		]
+	},
+ 	{
+		"id": 7,
+		"name": "Neck Disability Index",
+		"language": "Spanish",
+		"description": "",
+		"questions": [{
+				"id": 0,
+				"title": "Intensidad del dolor del cuello",
+				"rating": ["En este momento, no tengo dolor",
+					"En este momento, tengo un dolor leve",
+					"En este momento, tengo un dolor de intensidad media",
+					"En este momento, tengo un dolor intenso",
+					"En este momento, tengo un dolor muy intenso",
+					"En este momento, tengo el peor dolor imaginable"
 				]
 			},
 			{
