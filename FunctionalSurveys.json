@@ -977,7 +977,7 @@
 		"id": 7,
 		"name": "Neck Disability Index",
 		"language": "Spanish",
-		"description": "",
+		"description": "Este cuestionario ha sido diseńado para aportarnos información sobra cuánto interfiere el dolor de cuello en sus actividades cotidianas.  Por favor, conteste a todas las secciones y, en cada una, marque sólo la frase que sea correcta en su caso.  Somos conscientes de que en cada sección puede pensar en dos o más frases son ciertas en su caso, pero por favor marque sólo la que considera que describe mejor su situación.  ",
 		"questions": [{
 				"id": 0,
 				"title": "Intensidad del dolor del cuello",
@@ -991,21 +991,21 @@
 			},
 			{
 				"id": 1,
-				"title": "PERSONAL CARE",
-				"rating": ["I can look after myself normally without causing extra pain",
-					"I can look after myself normally but it causes extra pain",
-					"It is painful to look after myself and I am slow and careful",
-					"I need some help but manage most of my personal care",
-					"I need help every day in most of my personal care",
-					"I don’t get dressed, I wash with difficulty and stay in bed"
+				"title": "Higiene personal (lavarse, vestirse, etc.)",
+				"rating": ["Puedo encargarme de mi higiene personal de manera normal, sin empeorar mi dolor",
+					"Puedo encargarme de mi higiene personal de manera normal, pero eso empeora mi dolor",
+					"Encargarme de me higiene personal empeora mi dolor, y tengo que hacerlo lenta y cuidadosamente",
+					"Necesito alguna ayuda, pero puedo encargarme de la mayor parte de mi higiene personal",
+					"Cada día necesito ayuda para mi higiene personal",
+					"No puedo vestirme, me lavo con dificultad y me quedo en la cama"
 				]
 			},
 			{
 				"id": 2,
-				"title": "LIFTING",
-				"rating": ["I can lift heavy weights without causing extra pain",
-					"I can lift heavy weights, but it gives me extra pain",
-					"Pain prevents me from lifting heavy weights off the floor but I can manage if items are conveniently positioned, ie. on a table",
+				"title": "Levantar pesos",
+				"rating": ["",
+					"",
+					"",
 					"Pain prevents me from lifting heavy weights, but I can manage light weights if they are conveniently positioned",
 					"I can lift only very light weights",
 					"I cannot lift or carry anything at all"
