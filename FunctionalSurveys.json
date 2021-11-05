@@ -1003,89 +1003,89 @@
 			{
 				"id": 2,
 				"title": "Levantar pesos",
-				"rating": ["",
-					"",
-					"",
-					"Pain prevents me from lifting heavy weights, but I can manage light weights if they are conveniently positioned",
-					"I can lift only very light weights",
-					"I cannot lift or carry anything at all"
+				"rating": ["Puedo levantar objetos pesados sin empeorar mi dolor",
+					"Puedo levantar objetos pesados per eso empeora mi dolor",
+					"El dolor me impide levantar objetos pesados desde el suelo, pero puedo levantar los que están en sitios cómodos, como por ejemplo sobre una mesa",
+					"El dolor me impide levantar objetos pesados desde el suelo, pero puedo levantar objetos de peso ligero o medio si están en sitios cómodos",
+					"Sólo puedo levantar objetos muy ligeros",
+					"No puedo levantar ni cargar nada"
 				]
 			},
 			{
 				"id": 3,
-				"title": "WORK",
-				"rating": ["I can do as much work as I want",
-					"I can only do my usual work, but no more",
-					"I can do most of my usual work, but no more",
-					"I can't do my usual work",
-					"I can hardly do any work at all",
-					"I can't do any work at all"
+				"title": "Leer",
+				"rating": ["Puedo leer tanto como quiera sin que me duela el cuello",
+					"Puedo leer tanto como quiera, aunque me produce un ligero dolor en el cuello",
+					"Puedo leer tanto como quiera, aunque me produce en el cuello un dolor de intensidad media",
+					"No puedo leer tanto como quisiera porque me produce en el cuello un dolor de intensidad media",
+					"Apenas puedo leer porque me produce un intenso dolor en el cuello",
+					"No puedo leer nada"
 				]
 			},
 			{
 				"id": 4,
-				"title": "HEADACHES",
-				"rating": ["I have no headaches at all",
-					"I have slight headaches that come infrequently",
-					"I have moderate headaches that come infrequently",
-					"I have moderate headaches that come frequently",
-					"I have severe headaches that come frequently",
-					"I have headaches almost all the time"
+				"title": "Dolor de cabeza",
+				"rating": ["No me duele la cabeza",
+					"Sólo infrecuentemente tengo un ligero dolor de cabeza",
+					"Sólo infrecuentemente tengo un dolor de cabeza de intensidad media",
+					"Con frecuencia tengo un dolor de cabeza de intensidad media",
+					"Con frecuencia tengo un intenso dolor de cabeza",
+					"Casi siempre tengo dolor de cabeza"
 				]
 			},
 			{
 				"id": 5,
-				"title": "CONCENTRATION",
-				"rating": ["I can concentrate fully without difficulty",
-					"I can concentrate fully with slight difficulty",
-					"I have a fair degree of difficulty concentrating",
-					"I have a lot of difficulty concentrating",
-					"I have a great deal of difficulty concentrating",
-					"I can't concentrate at all"
+				"title": "Concentración",
+				"rating": ["Siempre que quiero, me puedo concentrar plenamente y sin ninguna dificultad",
+					"Siempre que quiero, me peudo concenterar plenamente, aunque con alguna dificultad por el dolor de cuello",
+					"Por el dolor de cuello, me cuesta concentrarme",
+					"Por el dolor de cuello, me cuesta mucho concentrarme",
+					"Por el dolor de cuello, me cuesta muchísimo concentrarme",
+					"Por el dolor de cuello, no me puedo concentrar en absoluto"
 				]
 			},
 			{
 				"id": 6,
-				"title": "SLEEPING",
-				"rating": ["I have no trouble sleeping",
-					"My sleep is slightly disturbed for less than 1 hour",
-					"My sleep is mildly disturbed for up to 1-2 hours",
-					"My sleep is moderately disturbed for up to 2-3 hours",
-					"My sleep is greatly disturbed for up to 3-5 hours",
-					"My sleep is completely disturbed for up to 5-7 hours"
+				"title": "Trabajo (Sea remunerado o no, incluyendo las faenas domésticas)",
+				"rating": ["Puedo trabajar tanto como quiera",
+					"Puedo hacer mi trabajo habitual, pero nada más",
+					"Puedo hacer casi todo mi trabajo habitual, pero nada más",
+					"No puedo hacer mi trabajo habitual",
+					"Apenas puedo hacer algún trabajo",
+					"No puedo hacer ningún trabajo"
 				]
 			},
 			{
 				"id": 7,
-				"title": "DRIVING",
-				"rating": ["I can drive my car without neck pain",
-					"I can drive as long as I want with slight neck pain",
-					"I can drive as long as I want with moderate neck pain",
-					"I can't drive as long as I want because of moderate neck pain",
-					"I can hardly drive at all because of severe neck pain",
-					"I can't drive my care at all because of neck pain"
+				"title": "Conducir (Si no conduce por motivos ajenos a su dolor de cuello, deje en blanco esta sección",
+				"rating": ["Puedo conducir sin que me duela el cuello",
+					"Puedo conducir tanto como quiera, aunque me produce un ligero dolor en el cuello",
+					"Puedo conducir tanto como quiera, aunque me produce en el cuello un dolor de intensidad moderada",
+					"No puedo conducir tanto como quisiera porque me produce en el cuello un dolor de intensidad moderada",
+					"Apenas puedo conducir porque me produce un dolor intenso en el cuello",
+					"No puedo conducir por mi dolor de cuello"
 				]
 			},
 			{
 				"id": 8,
-				"title": "READING",
-				"rating": ["I can read as much as I want with no neck pain",
-					"I can read as much as I want with slight neck pain",
-					"I can read as much as I want with moderate neck pain",
-					"I can't read as much as I want because of moderate neck pain",
-					"I can't read as much as I want because of severe neck pain",
-					"I can't read at all"
+				"title": "Dormir",
+				"rating": ["No tengo problemas para dormir",
+					"El dolor de cuello me afecta muy poco para dormir(me priva de menos de 1 hora de sueño)",
+					"El dolor de cuello me afecta para dormir(me priva de entre 1 y 2 horas de sueño)",
+					"El dolor de cuello me afecta bastante al dormir(me priva de entre 2 y 3 horas de sueño)",
+					"El dolor de cuello me afecta mucho para dormir(me priva de entre 3 y 5 horas de sueño)",
+					"Mi sueño está completamente alterado por el dolor de cuello(me priva de más de 5 horas de sueño)"
 				]
 			},
 			{
 				"id": 9,
-				"title": "RECREATION",
-				"rating": ["I have no neck pain during all recreational activities",
-					"I have some neck pain with all recreational activities",
-					"I have some neck pain with a few recreational activities",
-					"I have neck pain with most recreational activities",
-					"I can hardly do recreational activities due to neck pain",
-					"I can't do any recreational activities due to neck pain"
+				"title": "Ocio",
+				"rating": ["Puedo realizar todas mis actividades recreativas sin que me duela el cuello",
+					"Puedo realizar todas mis actividades recreativas, aunque me causa algo de dolor en el cuello",
+					"Puedo realizar la mayoría de mis actividades recreativas, pero no todas, por el dolor de cuello",
+					"Sólo puedo hacer algunas de mis actividades recreativas por el dolor de cuello",
+					"Apenas puedo hacer mis actividades recreativas por el dolor de cuello",
+					"No puedo haver ninguna actividad recreativa por el dolor de cuello"
 				]
 			}
 		]
